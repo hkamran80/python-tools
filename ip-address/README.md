@@ -1,5 +1,6 @@
 # Requirements
 <code>requests</code>
+<br>
 <code>guizero</code> (GUI-only)
 
 <br>
