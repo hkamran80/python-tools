@@ -5,7 +5,7 @@ Tools built with Python! Helping you throughout your day.
   - `ip-address`: Python 3 (requires dependencies)
   - `weather`: Python 2 (no outside dependencies)
   - `folder_destroyer`: Python 3 (no outside dependencies)
-  - `internet_connection_test`: Python 2 (no outside dependencies)
+  - `internet_connection_test`: Python 2/3 (no outside dependencies)
   - `timecalc`: Python 2/3 (no outside dependencies)
 
 
