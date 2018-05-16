@@ -1,4 +1,4 @@
-# Network Scanner
+# Get MAC addresses
 
 import subprocess
 import requests
