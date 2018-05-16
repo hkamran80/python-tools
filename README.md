@@ -7,7 +7,7 @@ Tools built with Python! Helping you throughout your day.
   - `folder_destroyer`: Python 3 (no dependencies)
   - `internet_connection_test`: Python 2/3 (no dependencies)
   - `timecalc`: Python 2/3 (no dependencies)
-  - `netscan`: Python 3 (untested with 2, one dependency: `requests`)
+  - `macscan`: Python 3 (untested with 2, one dependency: `requests`--not required)
 
 
 # App Notes
